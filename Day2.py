@@ -1,7 +1,7 @@
 #day2
-a=[1,2,3,4,"achu"]
-b=(11,12,13,14,"chaitu")
-c={"name":"dev","age":15,"class":10,"Grade":"B","Section":"Diamond"}
+a=[1,2,3,4,"siri"]
+b=(11,12,13,14,"bunny")
+c={"name":"sirisha","age":20,"class":10,"Grade":"B","Section":"Diamond"}
 print(a)
 print(b)
 print(c)
